@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-12T10:53:10 IST" name="Default suite" finished-at="2023-04-12T10:53:16 IST" duration-ms="5350">
+    <groups>
+    </groups>
+    <test started-at="2023-04-12T10:53:10 IST" name="Default test" finished-at="2023-04-12T10:53:16 IST" duration-ms="5350">
+      <class name="com.crm.testscript.OpenBrowser">
+        <test-method signature="open()[pri:0, instance:com.crm.testscript.OpenBrowser@7ee955a8]" started-at="2023-04-12T10:53:10 IST" name="open" finished-at="2023-04-12T10:53:16 IST" duration-ms="5307" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open -->
+      </class> <!-- com.crm.testscript.OpenBrowser -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
